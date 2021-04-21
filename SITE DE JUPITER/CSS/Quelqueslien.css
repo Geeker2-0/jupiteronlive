@@ -1,0 +1,39 @@
+body{
+    background-color: brown;
+    padding:0px;
+}
+
+iframe{
+    right: 0px;
+}
+
+a.lien{
+    color: blue;
+    background-color: chocolate;
+    border-radius: 15px;
+    padding: 3px;
+    text-decoration: none;
+}
+
+div.header{
+    background-image: url("../IMG/téléchargé.jfif");
+    background-size: 1000px;
+    background-position-y: top;
+    background-attachment: local;
+    background-size: cover;
+    background-position: 0px top;
+    height: 100px;
+    width: 600x;
+    border-color: chocolate;
+    background-repeat: repeat;
+    top: 0px;
+
+}
+
+a.nav{
+    text-decoration: none;
+    color: black;
+    padding: 3px;
+    background-color: firebrick;
+    border-radius: 10px;
+}
